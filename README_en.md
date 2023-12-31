@@ -12,5 +12,5 @@
 
 **Give your feedback:** Send an email to zhiixiiang2021@163.com
 
-![ZhiiOS 1](./ZhiiOS 1.png)
+![ZhiiOS 1](./ZhiiOS.png)
 
