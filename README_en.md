@@ -2,7 +2,7 @@
 
 # Welcome to ZhiiOS!
 
-Latest version: 11.01 
+Latest version: 11.02 
 *If you want to get the official version of ZhiiOS directly, go to the /release branch and select the ISO file of the corresponding version*
 
 ## About ZhiiOS
