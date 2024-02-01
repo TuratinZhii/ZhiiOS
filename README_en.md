@@ -2,5 +2,5 @@
 
 # Get the official version of ZhiiOS
 
-[11.01](./versions/11.01/)	- 2023.12.31
+[11.02](./versions/11.02/)	- 2024.2.1
 
